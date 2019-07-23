@@ -1,0 +1,5 @@
+{
+  "name": "trading-portal-common",
+  "private": true,
+  "main": "index.js"
+}

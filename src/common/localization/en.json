@@ -1,0 +1,63 @@
+{
+  "login": {
+    "register_label": "Register",
+    "login_label": "Login",
+
+    "signup": "新規登録"
+  },
+
+  "drawer": {
+    "login": "Log in",
+    "logout": "Log out",
+    "guest": "Guest",
+    "create_new_account": "Create New Account",
+    "catalogue": "Catalogue",
+    "basket": "Basket",
+    "latest_news": "Latest News",
+    "promotions": "Promotions",
+    "partners": "Partners",
+    "about_us": "About Us",
+    "locations": "Locations",
+    "contact_us": "Contact Us",
+    "feedback": "Feedback",
+    "help": "Help",
+    "tutorial": "Tutorial",
+    "quotation_request": "Quotation Request",
+    "setting": "Setting"
+  },
+
+  "new_account": {
+    "name": "Name*",
+    "gender": "Gender*",
+    "birthday": "Birthday (YYYY/MM/DD)",
+    "email": "Email address*",
+    "reemail": "Please reenter email address",
+    "phone_number": "Phone Number*",
+    "district": "District*",
+    "collection_address": "Collection Address*",
+    "delivery_address": "Delivery Address (Same as above)",
+    "secondary_name": "Name",
+    "secondary_phone_number": "Phone Number",
+    "referral_number": "Referral No.",
+    "membership_number": "Membership Number"
+  },
+
+  "discount": {
+    "screen_title": "Discount"
+  },
+
+  "quotation_request": {
+    "screen_title": "Quotation Request",
+    "gender": {
+      "male": "Mr",
+      "female": "Ms"
+    },
+    "name": "Name*",
+    "is_member": "I am a Jeeves Member.",
+    "membership_number": "Membership Number",
+    "phone_number": "Phone*",
+    "email": "Email",
+    "description": "Description of the item(s)*",
+    "submit": "SUBMIT"
+  }
+}
